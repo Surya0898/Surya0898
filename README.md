@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-surya1998-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surya1998/)
 [![Email](https://img.shields.io/badge/Email-surya.um.1808%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:surya.um.1808@gmail.com)
-[![Location](https://img.shields.io/badge/Los%2C%20Angeles%2C%20IL-USA-00897B?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![Location](https://img.shields.io/badge/Los%20Angeles%2C%20IL-USA-00897B?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>
 
